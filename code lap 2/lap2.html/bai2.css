@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.xanh{
+    background-color: #4CAF50 ;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.cam{
+    background-color:#FF9800 ;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 60%;
+}
+.cam-dat{
+    background-color:#da952d ;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+
+    
+}
+@media screen and (max-width : 768px){
+
+    .xanh{
+    background-color: #4CAF50 ;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.cam{
+    background-color:#FF9800 ;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 95%;
+}
+.cam-dat{
+    background-color:#da952d ;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+}

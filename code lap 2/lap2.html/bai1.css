@@ -1,0 +1,26 @@
+
+.anh{
+    width: 100%;
+    text-align: center;
+}
+h5{
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+@media screen and (max-width : 480px ) {
+   
+.anh{
+       width: 100%;
+       text-align: center;
+    }
+
+   h4{
+    width: 100%;
+    font-size: 10px;
+   } 
+   h5{
+    font-size: 10px;
+}
+}
