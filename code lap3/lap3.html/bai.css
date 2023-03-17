@@ -1,0 +1,51 @@
+.box{
+    background-color:white ;
+    width: 100%;
+    height: 700px;
+    text-align: center;
+}
+.hender{
+    background-color: #EEEEEE ;
+    text-align: center;
+    height: 50px;
+}
+.tmenu{
+    background-color: #EEEEEE;
+    text-align: center;
+    height: 50px;
+}
+.noidung{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: #EEEEEE;
+    text-align: center;
+    height: 50px;
+}
+h2{
+    background-color: #EEEEEE;
+    width:300px;
+    text-align: center;
+    height: 300px;
+}
+h3{
+    padding: 15px;
+}
+.can{
+    text-align: center;
+}
+@media screen and (max-width:780px){
+    .box{
+        background-color:white ;
+        width: 100%;
+        height: 700px;
+        text-align: center;
+    }
+    .can{
+        text-align: center;
+    }
+   h2{
+    width: auto;
+   }
+}
