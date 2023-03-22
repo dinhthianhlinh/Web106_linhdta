@@ -1,0 +1,16 @@
+.khungto{
+   display: flex;
+   flex-wrap: wrap; 
+   justify-content: space-around;
+}
+.khung1{
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    
+}
+.anh1{
+    width:100%;
+    border-radius: 5px;
+}
