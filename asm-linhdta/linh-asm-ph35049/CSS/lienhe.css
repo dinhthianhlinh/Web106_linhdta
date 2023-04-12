@@ -1,7 +1,14 @@
 .khung{
+
     margin-top: 30px;
 
 }
+.item{
+    display: flex;
+    flex-direction: column;
+}
+
+
 h6{
 
     height:auto;
@@ -16,5 +23,14 @@ a{
 
 }
 .hender{
+    display: flex;
     margin-top: 20px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    width: 95%;
+    margin: auto;
+    gap: 20px;
+}
+.menu{
+    margin-bottom: 100px;
 }

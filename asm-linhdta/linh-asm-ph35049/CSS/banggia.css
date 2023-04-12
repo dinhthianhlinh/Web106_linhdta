@@ -1,5 +1,5 @@
 a{
-    color: white;
+    color: rgb(206, 42, 42);
     padding: 10px;
 
 }
@@ -8,4 +8,11 @@ a{
 }
 .hender{
     margin-top: 20px;
+    width: 95%;
+    text-align: center;
+    border-radius: 5px;
+}
+.khung{
+    display: flex;
+    justify-content: space-around;
 }
